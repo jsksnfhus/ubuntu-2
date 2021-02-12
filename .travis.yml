@@ -198,3 +198,4 @@ matrix:
       env:
         - UNIT_AND_LINT=1
         - CHEF_LICENSE=accept
+       
